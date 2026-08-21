@@ -2,27 +2,30 @@
 
 <h1>Hi, I'm Preeti 👋</h1>
 
-<h3>Computer Science Engineer • Full-Stack Developer • Problem Solver</h3>
+<h3>Computer Science Engineer • Full-Stack Developer</h3>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems.;Exploring+Cloud+%26+Distributed+Systems;Turning+ideas+into+working+products.;Learning.+Building.+Improving." alt="Typing animation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=I+build+software+from+idea+to+implementation.;Exploring+backend+systems%2C+cloud%2C+and+infrastructure.;Turning+curiosity+into+things+that+actually+work."
+  alt="Typing animation"
+/>
 
 <br><br>
 
 </div>
+
 ---
 
 ## 👋 About Me
 
-I'm a **Computer Science undergraduate** who enjoys turning ideas into practical software.
+I'm **Preeti Sonule**, a Computer Science undergraduate who enjoys turning ideas into things that actually work.
 
-I work across the stack — from building responsive interfaces and backend APIs to working with databases, containers, and cloud technologies.
+I build across the stack — from **interactive frontends and backend APIs to databases, containers, and cloud infrastructure**. I like understanding not just *how* to build something, but also *why* it works the way it does.
 
-I'm particularly interested in **software engineering, scalable systems, developer tools, and building products that solve real-world problems.**
+Currently, I'm going deeper into **software engineering, system design, distributed systems, and cloud technologies** while continuing to build projects that solve practical problems.
 
-> **Build → Break → Debug → Learn → Repeat.**
----
+> **Build → Break → Understand → Improve.**
 
 ## 🚀 Currently Building & Learning
 
@@ -30,36 +33,43 @@ I'm particularly interested in **software engineering, scalable systems, develop
 <tr>
 <td width="50%" valign="top">
 
+---
+
+## 🚀 Currently
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔨 Building
 
-- 🧩 Full-stack applications with **React + TypeScript**
-- ⚙️ Backend services with **Node.js & Express**
-- 🐳 Containerized applications with **Docker**
-- ☸️ Exploring **Kubernetes & cloud deployments**
+- Full-stack applications with **React + TypeScript**
+- Backend services with **Node.js & Express**
+- Containerized applications with **Docker**
+- Practical projects around **automation & developer tools**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📚 Learning
+### 📚 Exploring
 
-- 🧠 Advanced **Data Structures & Algorithms**
-- 🏗️ **System Design**
-- 🗄️ **SQL & NoSQL databases**
-- ☁️ **AWS & distributed systems**
+- **Data Structures & Algorithms**
+- **System Design**
+- **SQL & NoSQL**
+- **Kubernetes & AWS**
+- **Distributed Systems**
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python" />
 </p>
 
 ### 🎨 Frontend
@@ -95,22 +105,23 @@ I'm particularly interested in **software engineering, scalable systems, develop
 
 **Voice-First Grocery Ordering Assistant**
 
-A voice-driven grocery ordering system built to simplify product discovery and ordering through natural spoken interaction.
+A voice-driven grocery platform that lets users discover and order products through spoken interaction.
 
 **Built with**
 
 `React` `Node.js` `Express` `MongoDB`
 
-**Highlights**
+**What I built**
 
-- 🎙️ Speech-to-Text based interaction
-- 🧠 NLP-based intent & entity processing
-- 🛒 Grocery discovery and ordering workflow
+- 🎙️ Speech-to-Text interaction
+- 🧠 Intent & entity extraction
+- 🛒 Product discovery and ordering flow
+- 🔐 Backend APIs & authentication
 
 <br>
 
 <a href="https://github.com/preetisonule/YOUR_REPO">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-171717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -119,24 +130,25 @@ A voice-driven grocery ordering system built to simplify product discovery and o
 
 ### ☁️ CloudPulse
 
-**Docker & Kubernetes Project**
+**Containerized Application & Kubernetes**
 
-A containerized application used to explore Kubernetes deployment and container management workflows.
+A hands-on infrastructure project focused on containerizing an application and deploying it to a local Kubernetes cluster.
 
 **Built with**
 
 `Docker` `Kubernetes` `kind` `kubectl`
 
-**Highlights**
+**What I built**
 
-- 🐳 Containerized application workflow
+- 🐳 Docker image workflow
 - ☸️ Kubernetes deployment
-- 📦 Local container image management
+- 📦 Container image management
+- ⚙️ Local cluster experimentation
 
 <br>
 
 <a href="https://github.com/preetisonule/YOUR_REPO">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-171717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -148,6 +160,61 @@ A containerized application used to explore Kubernetes deployment and container 
 <td width="50%" valign="top">
 
 ### 🔍 GitHub Portfolio Analyzer
+
+**Developer Profile Analysis Platform**
+
+A TypeScript-based full-stack application that analyzes GitHub profiles and repositories to generate developer insights.
+
+**Built with**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
+
+**What I built**
+
+- 🔎 GitHub API integration
+- 📊 Repository & language analysis
+- ⭐ Stars and forks analysis
+- 🧮 Developer scoring system
+
+<br>
+
+<a href="https://github.com/preetisonule/YOUR_REPO">
+<img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Orchestrix
+
+**Developer Automation Platform**
+
+A backend-focused project exploring automated development workflows and service orchestration.
+
+**Built with**
+
+`Python` `FastAPI` `Docker`
+
+**What I built**
+
+- ⚙️ API-driven backend
+- 🔄 Automated workflows
+- 🧩 Service-oriented architecture
+- 🐳 Containerized services
+
+<br>
+
+<a href="https://github.com/preetisonule/YOUR_REPO">
+<img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+### 🔍 CodeDNA
 
 **Developer Profile Analysis Platform**
 
@@ -203,16 +270,12 @@ A backend-focused project exploring automated development workflows and service 
 
 ## 🏆 Achievements
 
-<div align="center">
-
-| 🏅 Achievement | 🎯 Details |
+| Achievement | Result |
 |:---|:---|
-| 🥉 **Ninja Hackathon** | 3rd Runner-Up • Team Mirage |
+| 🥉 **Hacking Bad Hackathon** | 3rd Runner-Up • Team Mirage |
 | 🚀 **GDSC Hackathon** | Top 12 Finalist |
-| 👩‍💻 **Coding Club** | President • DYPCET |
-| 🔥 **Problem Solving** | Consistent LeetCode practice & DSA preparation |
-
-</div>
+| 👩‍💻 **Official Coding Club** | President • DYPCET |
+| 🔥 **LeetCode** | Consistent DSA & problem-solving practice |
 
 ---
 
@@ -236,29 +299,21 @@ A backend-focused project exploring automated development workflows and service 
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Find Me Online
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/preeti-sonule/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://YOUR_PORTFOLIO_URL.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-171717?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-171717?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-171717?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:preetisonule3186@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-171717?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-> **Always learning. Always building.**
 
 </div>
 
