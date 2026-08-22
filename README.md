@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Preeti 👋</h1>
+<h1>Hi, I'm Preeti!</h1>
 
 <h3>Computer Science Engineer • Full-Stack Developer</h3>
 
@@ -17,8 +17,8 @@
 
 ---
 
-<div><centre>
-<img src="./Animation.gif" width="640" alt="Pixel art of Preeti coding in her cozy workspace"></centre></div>
+<div align="center">
+<img src="./Animation.gif" width="640" alt="Pixel art of Preeti coding in her cozy workspace"></div>
 
 ## 👋 About Me
 
@@ -99,16 +99,33 @@ Currently, I'm going deeper into **software engineering, system design, distribu
 
 ## ⭐ Featured Projects
 
-<table>
-<tr>
+### 🔍 CodeDNA
+**Developer Profile Analysis Platform**
 
-<td width="50%" valign="top">
+A full-stack developer assessment platform that analyzes **GitHub, LeetCode, and resume data** to generate developer insights and interview-readiness scores.
+
+**Built with**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
+
+**What I built**
+
+- 🔎 Integrated GitHub & LeetCode APIs for developer data
+- 📄 Built a resume parser for extracting candidate information
+- 📊 Implemented profile analysis and interview-readiness scoring
+- 🔐 Added JWT-based authentication
+- ⚙️ Designed and implemented RESTful APIs
+
+<a href="https://github.com/preetisonule/YOUR_REPO">
+<img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+---
 
 ### 🗣️ SarthiAI
-
 **Voice-First Grocery Ordering Assistant**
 
-A voice-driven grocery platform that lets users discover and order products through spoken interaction.
+A voice-driven grocery platform designed to make product discovery and ordering easier through **spoken interaction**.
 
 **Built with**
 
@@ -116,159 +133,63 @@ A voice-driven grocery platform that lets users discover and order products thro
 
 **What I built**
 
-- 🎙️ Speech-to-Text interaction
-- 🧠 Intent & entity extraction
-- 🛒 Product discovery and ordering flow
-- 🔐 Backend APIs & authentication
-
-<br>
+- 🎙️ Speech-to-Text based interaction
+- 🧠 Intent & entity extraction for understanding user requests
+- 🛒 Product discovery and ordering workflow
+- 🔐 Backend APIs and authentication
+- ⚡ Full-stack integration between the voice interface and backend services
 
 <a href="https://github.com/preetisonule/YOUR_REPO">
 <img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
 </a>
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 📚 SmartStudyHub
+**Full-Stack Student Productivity Platform**
 
-### ☁️ CloudPulse
-
-**Containerized Application & Kubernetes**
-
-A hands-on infrastructure project focused on containerizing an application and deploying it to a local Kubernetes cluster.
+A collaborative learning platform designed to bring **study resources, productivity tools, and academic workflows** into one place, helping students organize their learning more effectively.
 
 **Built with**
 
-`Docker` `Kubernetes` `kind` `kubectl`
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
 **What I built**
 
-- 🐳 Docker image workflow
-- ☸️ Kubernetes deployment
-- 📦 Container image management
-- ⚙️ Local cluster experimentation
-
-<br>
+- 📚 Centralized platform for managing and accessing study resources
+- 📝 Tools designed around student productivity and learning workflows
+- 👥 User-focused features for organizing academic content
+- 🔐 Backend authentication and user management
+- ⚙️ RESTful APIs connecting the frontend with backend services
+- 🎨 Responsive interface built for an intuitive student experience
 
 <a href="https://github.com/preetisonule/YOUR_REPO">
 <img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
 </a>
 
-</td>
+---
 
-</tr>
+### 🥗 FoodSafe
+**Food Ingredient & Safety Analysis Platform**
 
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔍 GitHub Portfolio Analyzer
-
-**Developer Profile Analysis Platform**
-
-A TypeScript-based full-stack application that analyzes GitHub profiles and repositories to generate developer insights.
+A full-stack application that analyzes packaged food products using **barcode scanning and OCR** to help users understand ingredients, nutrition information, and potential risks.
 
 **Built with**
 
-`React` `TypeScript` `Node.js` `Express` `MongoDB`
+`MERN` `OpenFoodFacts API` `Tesseract.js`
 
 **What I built**
 
-- 🔎 GitHub API integration
-- 📊 Repository & language analysis
-- ⭐ Stars and forks analysis
-- 🧮 Developer scoring system
+- 📦 Barcode-based product lookup using the Open Food Facts API
+- 🔍 OCR-based extraction of ingredients and nutrition information
+- 📊 Safety scoring system based on ingredients and nutritional data
+- ⚠️ Risk categorization into Safe, Moderately Safe, or Unsafe
+- 💡 Detailed explanations behind the generated safety score
 
-<br>
-
-<a href="https://github.com/preetisonule/YOUR_REPO">
+<a href="https://github.com/preetisonule/foodsafe">
 <img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Orchestrix
-
-**Developer Automation Platform**
-
-A backend-focused project exploring automated development workflows and service orchestration.
-
-**Built with**
-
-`Python` `FastAPI` `Docker`
-
-**What I built**
-
-- ⚙️ API-driven backend
-- 🔄 Automated workflows
-- 🧩 Service-oriented architecture
-- 🐳 Containerized services
-
-<br>
-
-<a href="https://github.com/preetisonule/YOUR_REPO">
-<img src="https://img.shields.io/badge/View%20Project-171717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-### 🔍 CodeDNA
-
-**Developer Profile Analysis Platform**
-
-A full-stack application that analyzes GitHub profiles and repositories to generate developer insights.
-
-**Built with**
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB`
-
-**Highlights**
-
-- 🔎 GitHub API integration
-- 📊 Repository & language analysis
-- 🧮 Developer scoring system
-
-<br>
-
-<a href="https://github.com/preetisonule/YOUR_REPO">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-171717?style=flat-square&logo=github">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Orchestrix
-
-**Developer Automation Platform**
-
-A backend-focused project exploring automated development workflows and service orchestration.
-
-**Built with**
-
-`Python` `FastAPI` `Docker`
-
-**Highlights**
-
-- ⚙️ API-driven architecture
-- 🔄 Automated workflows
-- 🧩 Service-oriented backend design
-
-<br>
-
-<a href="https://github.com/preetisonule/YOUR_REPO">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-171717?style=flat-square&logo=github">
-</a>
-
-</td>
-
-</tr>
-</table>
 ---
 
 ## 🏆 Achievements
@@ -297,6 +218,16 @@ A backend-focused project exploring automated development workflows and service 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=preetisonule&hide_border=true&theme=transparent" />
+
+</div>
+
+## 🧩 LeetCode Activity
+
+<div align="center">
+
+<a href="https://leetcode.com/u/preetisonule3186/">
+  <img src="https://leetcard.jacoblin.cool/preetisonule3186?theme=transparent&font=Karma&ext=heatmap" />
+</a>
 
 </div>
 
