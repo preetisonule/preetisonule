@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-<img src="./Animation.gif" width="640" alt="Pixel art of Preeti coding in her cozy workspace"></div>
+<img src="./Animation3.gif" width="640" alt="Pixel art of Preeti coding in her cozy workspace"></div>
 
 ## 👋 About Me
 
