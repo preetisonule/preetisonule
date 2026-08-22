@@ -11,7 +11,7 @@
   alt="Typing animation"
 />
 
-<br><br>
+<br>
 
 </div>
 
