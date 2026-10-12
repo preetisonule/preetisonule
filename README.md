@@ -2,7 +2,7 @@
 
 # Hi, I'm Preeti! 👋
 
-### Computer Science Undergraduate • Full-Stack Developer
+### Computer Science Undergraduate • Full-Stack Developer • Software Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Building+software+from+idea+to+implementation.;Exploring+backend+systems%2C+cloud%2C+and+distributed+systems.;Turning+curiosity+into+working+software." alt="Typing animation" />
 
